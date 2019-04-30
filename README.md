@@ -1,2 +1,1 @@
-Training project site Uber Eats
-[Check site]https://gitkurmax.github.io/
+Training project site Uber Eats https://gitkurmax.github.io/
