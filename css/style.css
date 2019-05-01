@@ -20,6 +20,10 @@ header .main {
   padding-right: 4px;
 }
 
+.main > img {
+  margin-right: 46.22px;
+}
+
 .gps {
   display: flex;
 }
@@ -114,8 +118,8 @@ header a {
 }
 
 .wrapper_search {
-    padding-left: 9.2px;
-     padding-right: 4px;
+   padding-left: 9.2px;
+  padding-right: 4px;
 }
 
 .search {
@@ -193,5 +197,18 @@ header a {
 
     .mobile {
        display: block;
+    }
+
+    .button {
+      width: 72px;
+    }
+
+    .button.reg {
+      margin-right: 0;
+      margin-left: 12px;
+    }
+
+    .backet {
+      display: none;
     }
 }
